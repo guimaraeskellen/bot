@@ -1,0 +1,8 @@
+{
+  "name": "soofi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "6baf5a12"
+}
